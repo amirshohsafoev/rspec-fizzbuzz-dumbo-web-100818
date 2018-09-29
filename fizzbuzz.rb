@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 require 'pry'
 def fizbuzz(number) 
-  case
+  case 
     number % 3 = 0 
     return "Fizz"
     elsif 
